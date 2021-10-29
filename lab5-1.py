@@ -7,6 +7,7 @@ second_half = school[9:14]
 
 print(first_half)
 print(second_half)
+
 new_school = first_half + second_half
 
 print(new_school)

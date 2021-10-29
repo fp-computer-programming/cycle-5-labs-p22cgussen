@@ -9,7 +9,7 @@ print(dash)
 sentence = "I'm loving this short story I'm reading, \"The Fall of the House of Usher\""
 print(sentence)
 
-print("The length of the pervious string is " + str(len(sentence)) + " characters long.")
+print("The length of the previous string is " + str(len(sentence)) + " characters long.")
 
 string = 'apple'
 

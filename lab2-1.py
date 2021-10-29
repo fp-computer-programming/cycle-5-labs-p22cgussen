@@ -7,3 +7,4 @@ print(math.floor(19.156))
 print(math.fabs(-42))
 print(math.pow(2, 3))
 print(math.log10(100))
+ 
