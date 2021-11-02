@@ -1,4 +1,4 @@
-# Author CCG AMDG 10/27/21
+# Author CCG AMDG 10/29/21
 
 word = "flibbertigibbet"
 
